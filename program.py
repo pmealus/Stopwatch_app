@@ -42,16 +42,5 @@ def stopwatch():
             return delt
 
 
-
-
-
-
-
-
-
-
-
-
-
-main()
-
+if __name__ == '__main__':
+    main()
